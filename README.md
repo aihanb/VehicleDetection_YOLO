@@ -1,5 +1,7 @@
 # VehicleDetection_YOLO
 
+![alt text](https://github.com/ck2886/VehicleDetection_YOLO/blob/master/project_video.mp4)
+
 Installation pre-requsites:
 Keras 1.2
 opencv
